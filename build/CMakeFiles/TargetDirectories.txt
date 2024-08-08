@@ -1,0 +1,3 @@
+/Users/haocui/sqlitePractice/build/CMakeFiles/sqlite3Practice.dir
+/Users/haocui/sqlitePractice/build/CMakeFiles/edit_cache.dir
+/Users/haocui/sqlitePractice/build/CMakeFiles/rebuild_cache.dir
